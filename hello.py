@@ -1,2 +1,2 @@
 print("Python env OK")
-sss
+print("Hello, World!")
